@@ -6,4 +6,4 @@ Please note that the RobotDyn LCD RGB 16x2 + keypad + Buzzer Shield can have eit
 
 | normal | inverted |
 |:---:|:---:|
-|<img src="./pictures/1602 LCD RGB.jpg" width="44" height="206" />|<img src="./pictures/1602 LCD inverted RGB.jpg" width="44" height="206" />|
+|<img src="../pictures/1602 LCD RGB.jpg" width="44" height="206" />|<img src="../pictures/1602 LCD inverted RGB.jpg" width="44" height="206" />|
